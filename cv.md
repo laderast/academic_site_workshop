@@ -3,17 +3,17 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+PhD student at NKUA
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2008-2013`
+__National and Kapodistrian University of Athens__
+BA Greek Philology and Linguistics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2013-2016`
+__Queen Margaret University, Edinburgh__
+MSc Speech and Language Therapy
 
 ## Awards
 
