@@ -62,7 +62,7 @@ In *{{pub.address}}* <br />
 {% for pub in site.data.cv.references %}
 **{{pub.name}}**<br />
 {{pub.affiliation}}<br />
-Email: [{{pub.mail}}](mailto:{{pub.mail}})
+<i class="fa fa-fw fa-envelope-square"></i> [{{pub.mail}}](mailto:{{pub.mail}})
 
 {% endfor %}
 

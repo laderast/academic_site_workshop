@@ -3,7 +3,7 @@ layout: resume
 title: List of Publications
 ---
 
-[View on Google Scholar](https://scholar.google.co.uk/citations?user=aPd4T_YAAAAJ)
+<i class="ai ai-fw ai-google-scholar"></i> [View on Google Scholar](https://scholar.google.co.uk/citations?user=aPd4T_YAAAAJ)
 
 Jump to: [[Publications](#publications)] [[Theses](#theses)]
 
