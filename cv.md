@@ -34,10 +34,9 @@ Degree Awarded
 
 {% for pub in site.data.cv.theses %}
 **{{pub.title}}**<br />
-{{% if pub.type %}} {{pub.type}} {{% endif %}}<br />
+{{% if pub.type %}} {{pub.type}} {{% endif %}} {% if pub.supervisor %} Supervisor: *[{{pub.supervisor}}]({{pub.supervisor_link}})* {% endif %} <br /><br />
 *{{pub.school}}*<br />
 In *{{pub.month}}, {{pub.year}}* in *{{pub.address}}* <br />
-{% if pub.supervisor %} Supervisor: *[{{pub.supervisor}}]({{pub.supervisor_link}})* {% endif %} <br />
 {% if pub.url %}[[View Thesis]({{pub.url}})]{% endif %}
 
 {% endfor %}
