@@ -1,9 +1,10 @@
 ---
 layout: resume
+title: CV
 ---
-## Currently
+## Current Occupation
 
-Current Position Description
+Software Engineer (L1) at Twilio Czechia s.r.o, Prague, Czechia
 
 ## Education
 
@@ -15,16 +16,12 @@ Degree Awarded
 __University Name__
 Degree Awarded 
 
-## Awards
-
-`2012`
-Name of Award, Organization 
-
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### 
+### Theses
 
 `1994`
 Article Title, Journal Title
@@ -49,14 +46,12 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 
 ## Occupation
 
-`Current`
-__Current Job Title__, Current Employer 
+`Nov 2020 - Present`
+__Software Engineer (L1)__, Twilio Czechia s.r.o
+Prague, Czechia  
 
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
+`April - October 2020`
+__Intern Software Engineer (L1)__, Twilio Czechia s.r.o 
 
 - Task
 - Task
@@ -65,6 +60,6 @@ __Current Job Title__, Current Employer
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Oct 23, 2020 -->
 
 
