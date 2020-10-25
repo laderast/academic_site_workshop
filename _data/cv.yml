@@ -106,7 +106,7 @@ theses:
     year: 2020
     month: 9
     address: Prague, Czechia
-    note: Thesis Supervisor Zeman, Daniel
+    supervisor: Zeman, Daniel
     url: https://dspace.cuni.cz/handle/20.500.11956/120867
     type: Master's Thesis
 

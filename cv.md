@@ -37,7 +37,7 @@ Degree Awarded
 {{% if pub.type %}} {{pub.type}} {{% endif %}}<br />
 *{{pub.school}}*<br />
 In *{{pub.month}}, {{pub.year}}* in *{{pub.address}}* <br />
-{% if pub.note %} {{pub.note}} {% endif %} <br />
+{% if pub.supervisor %} Thesis Supervised by *{{pub.supervisor}}* {% endif %} <br />
 {% if pub.url %}[[View Thesis]({{pub.url}})]{% endif %}
 
 {% endfor %}
