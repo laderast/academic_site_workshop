@@ -1,0 +1,104 @@
+name: Akshay Aggarwal
+affiliation: Twilio Czechia
+address: Prague, Czechia
+email: akshayantimatter@gmail.com
+#web: http://people.csail.mit.edu/gchauras/
+
+research_interests:
+    - Computer vision and machine learning for VR and related applications.
+    - 3D reconstruction and fitting to RGB-D data.
+    - Neural networks for 2D/3D synthesis.
+    - Hardware acceleration -- compilers, GPGPU, ARM-optimisation.
+
+education:
+    - date:         2010-2014
+      title:        Ph.D in Computer Science
+      affiliation:  INRIA
+      location:     Sophia Antipolis, France
+      mentor:       Dr. George Drettakis
+      thesis:       Algorithms and perceptual analysis for interactive free viewpoint image-based navigation
+    - date:         2009-2010
+      title:        M.Sc in Computer Science
+      affiliation:  ENSIMAG
+      location:     Grenoble, France
+      mentor:
+      thesis:
+    - date:         2005-2009
+      title:        B.Tech in Computer Science
+      affiliation:  Indian Institute of Technology Delhi
+      location:     New Delhi, India
+      mentor:       Prof. Subodh Kumar
+      thesis:       Real time traffic simulation
+
+positions:
+    - date:         2018-till date
+      title:        Computer Vision
+      affiliation:  Oculus
+      location:     Zurich, Switzerland
+      mentor:
+      notes:
+
+visiting_positions:
+    - date:         Aug 2013
+      title:        Visiting student
+      affiliation:  Massachusetts Institute of Technology
+      location:     Cambridge MA, USA
+      mentor:       Prof. Fr{\'e}do Durand
+      notes:        Parallel execution of non-parallel recursive filters.
+
+technical_skills:
+    - C++
+    - Matlab
+    - Python
+    - OpenGL
+    - GLSL
+    - CUDA
+    - OpenCV
+    - LaTeX
+    - Mercurial
+    - Git
+    - SVN
+    - Bash
+    - Vim
+    - Java
+    - Visual Studio
+
+awards:
+    - date:   Aug 2010
+      detail: PhD fellowship (\textit{Allocation de Recherche}) by the French ministry for PhD studies.
+    - date:   Aug 2009
+      detail: Scholarship of Excellence (\textit{Bourse d'Excellence}) by ENSIMAG for Master's studies.
+    - date:   May 2007
+      detail: Scholarship for 12 week research internship `ODCSSS-07' in Dublin by Science Foundation of Ireland.
+    - date:   Jun 2005
+      detail: All India Rank 54 in IIT-JEE 2005 (entrance examination for Indian Institutes of Technology) amongst nearly 300,000 aspirants.
+
+publications:
+    - title:   "Passthrough+: Real-time Stereoscopic View Synthesis for Mobile Mixed Reality"
+      author:  G. Chaurasia, A. Nieuwoudt, A. E. Ichim, R Szeliski, A. Sorkine-Hornung
+      journal: Proceedings of ACM on Computer Graphics and Interactive Techniques
+      note:    to appear in I3D
+      year:    2020
+      doi:     https://doi.org/10.1145/3384540
+      url:     https://dl.acm.org/doi/abs/10.1145/3384540
+      media:
+          - name: Oculus Connect 6
+            url:  https://www.oculus.com/blog/oculus-quest-at-oc6-introducing-hand-tracking-oculus-link-passthrough-on-quest-and-more/?locale=en_US
+          - name: VentureBeat
+            url:  https://venturebeat.com/2019/10/02/oculus-quest-gets-go-apps-passthrough-and-easier-firmware-updates/
+          - name: UploadVR
+            url:  https://uploadvr.com/oc6-quest-passthrough/?fbclid=IwAR1uZPB9ODf76lw7p3rNlM_A4lK0EcS1yQfCpdly5uRiCMj3XiqrrM1ohco
+    - title:   Virtual chaotic traffic simulation
+      author:  G. Chaurasia, BR Selvamani, N. Gupta, S. Kumar
+      journal: Indian Conference on Computer Vision, Graphics and Image Processing
+      note:    ICVGIP
+      year:    2020
+      url:     /research/tlt20/
+      doi:     http://dx.doi.org/10.1145/1924559.1924604
+      internal: 1
+
+references:
+    - name:  Dr. George Drettakis
+      title: Senior Researcher, INRIA Sophia Antipolis, France
+      www:   http://www-sop.inria.fr/members/George.Drettakis/
+      mail:  george.drettakis@inria.fr

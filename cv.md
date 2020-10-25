@@ -20,7 +20,15 @@ Degree Awarded
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### 
+{% for pub in site.data.cv.publications %}
+{{pub.author}}<br />
+**{{pub.title}}**<br />
+*{{pub.journal}}*
+{% if pub.note %} *({{pub.note}})*
+{% endif %} *{{pub.year}}*  [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
+
+{% endfor %}
+
 ### Theses
 
 `1994`
