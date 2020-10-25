@@ -29,9 +29,7 @@ other (non-UD) annotation guidelines as well.
 
 ### Related Media
 
-[View Publication](Paper)
-
-[Slide Deck](/files/slide_decks/tlt20.odp)
+[View Publication](Paper), [Download Slide Deck](/files/slide_decks/tlt20.odp)
 
 <div class="media-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/QTYNjT-1XR8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
