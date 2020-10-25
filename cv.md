@@ -29,22 +29,13 @@ Degree Awarded
 
 {% endfor %}
 
-### Theses
+## Theses
 
 `1994`
 Article Title, Journal Title
 
 `1994`
 Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
 
 ## Presentations
 

@@ -7,6 +7,7 @@ title: "Estimating POS Annotation Consistency of Different Treebanks in a Langua
 ## 19th International Workshop on Treebanks and Linguistic Theories (TLT 2020)
 [Akshay Aggarwal], and [Daniel Zeman]
 
+### Abstract
 
 We introduce a new symmetric measure (called θpos)
 that utilises the non-symmetric KLcpos3 measure (Rosa and Žabokrtský, 2015) to
@@ -25,14 +26,20 @@ consistently with other treebanks of the same language. However, the
 measure could be used to assess inter-treebank annotation consistency under
 other (non-UD) annotation guidelines as well.
 
+
+### Related Media
+
+[View Publication](Paper)
+
+[Slide Deck](slides)
+
 <div class="media-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/QTYNjT-1XR8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-  * [Paper]
 
+## Cite Publication
 
-## Bibtex
     @inproceedings{Aggarwal:2020,
         author = {Aggarwal, Akshay and Zeman, Daniel},
         title = {Estimating {POS} {A}nnotation {C}onsistency of {D}ifferent {T}reebanks in a {L}anguage},
@@ -48,3 +55,4 @@ other (non-UD) annotation guidelines as well.
 [Akshay Aggarwal]: /
 [Daniel Zeman]:     https://ufal.mff.cuni.cz/daniel-zeman
 [Paper]:            paperlink
+[slides]:           /files/slide_decks/tlt20.odp
