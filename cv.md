@@ -25,18 +25,20 @@ Degree Awarded
 **{{pub.title}}**<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.month}}, {{pub.year}}*  [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
+{% endif %} *{{pub.month}}, {{pub.year}}*<br />
+[[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
 
 {% endfor %}
 
 ## Theses
 
 {% for pub in site.data.cv.theses %}
-*{{% if pub.type %}} {{pub.type}} {{% endif %}}*<br />
+{{% if pub.type %}} {{pub.type}} {{% endif %}}*<br />
 **{{pub.title}}**<br />
 *{{pub.school}}, {{pub.address}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.month}}, {{pub.year}}*  {% if pub.url %}[[View Thesis]({{pub.url}})]{% endif %}
+{% endif %} *{{pub.month}}, {{pub.year}}* <br />
+{% if pub.url %}[[View Thesis]({{pub.url}})]{% endif %}
 
 {% endfor %}
 
