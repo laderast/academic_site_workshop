@@ -34,9 +34,9 @@ Degree Awarded
 
 {% for pub in site.data.cv.theses %}
 **{{pub.title}}**<br />
-{{% if pub.type %}} {{pub.type}} {{% endif %}}*<br />
+{{% if pub.type %}} {{pub.type}} {{% endif %}}<br />
 *{{pub.school}}*<br />
-*{{pub.address}}* *{{pub.month}}, {{pub.year}}* <br />
+In *{{pub.month}}, {{pub.year}}* in *{{pub.address}}* <br />
 {% if pub.note %} {{pub.note}} {% endif %} <br />
 {% if pub.url %}[[View Thesis]({{pub.url}})]{% endif %}
 
