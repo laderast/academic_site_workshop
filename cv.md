@@ -25,23 +25,21 @@ Degree Awarded
 **{{pub.title}}**<br />
 *{{pub.journal}}*
 {% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}*  [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
+{% endif %} *{{pub.month}}, {{pub.year}}*  [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})] {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
 
 {% endfor %}
 
 ## Theses
 
-`1994`
-Article Title, Journal Title
+{% for pub in site.data.cv.theses %}
+{{pub.author}}<br />
+*{% if pub.type %}{{pub.type}} {{% endif %}*
+**{{pub.title}}**<br />
+*{{pub.school}} {{pub.address}}*
+{% if pub.note %} *({{pub.note}})*
+{% endif %} *{{pub.month}}, {{pub.year}}*  {% if pub.url %}[[View Thesis]({{pub.url}})]{% endif %}
 
-`1994`
-Article Title, Journal Title
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
+{% endfor %}
 
 ## Occupation
 

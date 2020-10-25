@@ -74,28 +74,40 @@ awards:
       detail: All India Rank 54 in IIT-JEE 2005 (entrance examination for Indian Institutes of Technology) amongst nearly 300,000 aspirants.
 
 publications:
-    - title:   "Passthrough+: Real-time Stereoscopic View Synthesis for Mobile Mixed Reality"
-      author:  G. Chaurasia, A. Nieuwoudt, A. E. Ichim, R Szeliski, A. Sorkine-Hornung
-      journal: Proceedings of ACM on Computer Graphics and Interactive Techniques
-      note:    to appear in I3D
-      year:    2020
-      doi:     https://doi.org/10.1145/3384540
-      url:     https://dl.acm.org/doi/abs/10.1145/3384540
-      media:
-          - name: Oculus Connect 6
-            url:  https://www.oculus.com/blog/oculus-quest-at-oc6-introducing-hand-tracking-oculus-link-passthrough-on-quest-and-more/?locale=en_US
-          - name: VentureBeat
-            url:  https://venturebeat.com/2019/10/02/oculus-quest-gets-go-apps-passthrough-and-easier-firmware-updates/
-          - name: UploadVR
-            url:  https://uploadvr.com/oc6-quest-passthrough/?fbclid=IwAR1uZPB9ODf76lw7p3rNlM_A4lK0EcS1yQfCpdly5uRiCMj3XiqrrM1ohco
-    - title:   Virtual chaotic traffic simulation
-      author:  G. Chaurasia, BR Selvamani, N. Gupta, S. Kumar
+#    - title:   "Passthrough+: Real-time Stereoscopic View Synthesis for Mobile Mixed Reality"
+#      author:  G. Chaurasia, A. Nieuwoudt, A. E. Ichim, R Szeliski, A. Sorkine-Hornung
+#      journal: Proceedings of ACM on Computer Graphics and Interactive Techniques
+#      note:    to appear in I3D
+#      year:    2020
+#      doi:     https://doi.org/10.1145/3384540
+#      url:     https://dl.acm.org/doi/abs/10.1145/3384540
+#      media:
+#          - name: Oculus Connect 6
+#            url:  https://www.oculus.com/blog/oculus-quest-at-oc6-introducing-hand-tracking-oculus-link-passthrough-on-quest-and-more/?locale=en_US
+#          - name: VentureBeat
+#            url:  https://venturebeat.com/2019/10/02/oculus-quest-gets-go-apps-passthrough-and-easier-firmware-updates/
+#          - name: UploadVR
+#            url:  https://uploadvr.com/oc6-quest-passthrough/?fbclid=IwAR1uZPB9ODf76lw7p3rNlM_A4lK0EcS1yQfCpdly5uRiCMj3XiqrrM1ohco
+    - title:   Estimating POS Annotation Consistency of Different Treebanks in a Language
+      author:  Aggarwal A., and Zeman D.
       journal: Indian Conference on Computer Vision, Graphics and Image Processing
       note:    ICVGIP
       year:    2020
+      month:   9
       url:     publications/tlt20/
       doi:     http://dx.doi.org/10.1145/1924559.1924604
       internal: 1
+
+
+theses:
+  - title: Consistency of Linguistic Annotation
+    author: Aggarwal A.
+    school: Univerzita Karlova, Matematicko-fyzikální fakulta, Ústav formální a aplikované lingvistiky
+    year: 2020
+    month: 9
+    address: Prague, Czechia
+    note: Thesis Supervisor Zeman, Daniel
+    url: https://dspace.cuni.cz/handle/20.500.11956/120867
 
 references:
     - name:  Dr. George Drettakis
