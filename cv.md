@@ -24,10 +24,7 @@ Degree Awarded
 {{pub.author}}<br />
 **{{pub.title}}**<br />
 *{{pub.journal}}*
-{% if pub.note %}
-*({{pub.note}})*
-{% endif %} 
-*{{pub.month}}, {{pub.year}}*<br />
+{% if pub.note %} *({{pub.note}})* {% endif %} *{{pub.month}}, {{pub.year}}*<br />
 [[web]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %})]
 {% if pub.doi %}[[doi]({{pub.doi}})]{% endif %}
 
