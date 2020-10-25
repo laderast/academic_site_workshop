@@ -1,0 +1,39 @@
+name: Akshay Aggarwal
+affiliation: Twilio Czechia s.r.o
+address: Prague, Czechia
+email: akshayantimatter@gmail.com
+position: Software Engineer (L1)
+#web: http://people.csail.mit.edu/gchauras/
+
+books:
+  - name:   1984
+    author: George Orwell
+  - name:   Fahrenheit 351
+    author: Ray Bradbury
+  - name:   Sputnik Sweetheart
+    author: Haruki Murakami
+  - name:   A Tale of Two Cities
+    author: Charles Dickens
+  - name:   The Count of Monte Cristo
+    author: Alexandre Dumas
+
+recommended:
+  - name:       If on a winter's night a traveller
+    author:     Italo Calvino
+    original:   Italian
+    goodreads:  "https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler"
+  - name:       Panchtantra (Five Treatises)
+    author:     Vishnu Sharma
+    original:   Sanskrit
+    goodreads:  "https://www.goodreads.com/book/show/2548680.Tales_From_Panchtantra"
+  - name:       "Quiet: The Power of Introverts in a World That Can't Stop Talking"
+    author:     Susan Cain
+    original:   English
+    goodreads:  "https://www.goodreads.com/book/show/8520610-quiet"
+
+authors:
+  - H.G. Wells
+  - Edgar Allan Poe
+  - Ruskin Bond
+  - Franz Kafka
+  - Munshi Premchand

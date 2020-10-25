@@ -2,14 +2,17 @@
 - title: Home
   url: /
 
-- title: Presentations
-  url: /presentations/
+#- title: Presentations
+#  url: /presentations/
 
 - title: CV
   url: /cv/
 
+- title: Publications
+  url: /publications/
+
 #- title: Blog
 #  url: /blog/
 
-- title: Workshops
-  url: /workshops/
+- title:  Projects
+  url: /projects/

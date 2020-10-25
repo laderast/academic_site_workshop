@@ -1,50 +1,64 @@
 name: Akshay Aggarwal
-affiliation: Twilio Czechia
+affiliation: Twilio Czechia s.r.o
 address: Prague, Czechia
 email: akshayantimatter@gmail.com
+position: Software Engineer (L1)
 #web: http://people.csail.mit.edu/gchauras/
 
-research_interests:
-    - Computer vision and machine learning for VR and related applications.
-    - 3D reconstruction and fitting to RGB-D data.
-    - Neural networks for 2D/3D synthesis.
-    - Hardware acceleration -- compilers, GPGPU, ARM-optimisation.
+research_interests1:
+  - Morpho-Syntax
+  - Morphology
+  - Syntax
+  - Parsing
+
+research_interests2:
+  - Machine Translation
+  - Language Independent Tools and Technologies
 
 education:
-    - date:         2010-2014
-      title:        Ph.D in Computer Science
-      affiliation:  INRIA
-      location:     Sophia Antipolis, France
-      mentor:       Dr. George Drettakis
-      thesis:       Algorithms and perceptual analysis for interactive free viewpoint image-based navigation
-    - date:         2009-2010
-      title:        M.Sc in Computer Science
-      affiliation:  ENSIMAG
-      location:     Grenoble, France
-      mentor:
-      thesis:
-    - date:         2005-2009
-      title:        B.Tech in Computer Science
-      affiliation:  Indian Institute of Technology Delhi
-      location:     New Delhi, India
-      mentor:       Prof. Subodh Kumar
-      thesis:       Real time traffic simulation
+    - date:         2017-2020
+      title:        M.Sc. in Computational Linguistics
+      affiliation:  Charles University
+      location:     Prague, Czechia
+      supervisor:   Daniel Zeman
+      thesis:       Consistency of Linguistic Annotation
+      note:         Part of EM-LCT dual degree program
+    - date:         2017-2019
+      title:        M.Sc. in Computational Linguistics
+      affiliation:  University of Basque Country
+      location:     Donostia, Spain
+      supervisor:   Daniel Zeman
+      supervisor2:  Koldo Gojenola
+      thesis:       "Annotation Inconsistencies in Universal Dependencies: Identification, and Correction"
+      note:         Part of EM-LCT dual degree program
+    - date:         January - June 2016
+      affiliation:  University de Technology de Compiègne
+      location:     Compiègne, France
+      title:        International Student Exchange
+    - date:         2012-2016
+      title:        B.Tech in Information Technology
+      affiliation:  Vellore Institute of Technology
+      location:     Vellore, India
 
 positions:
-    - date:         2018-till date
-      title:        Computer Vision
-      affiliation:  Oculus
-      location:     Zurich, Switzerland
-      mentor:
-      notes:
-
-visiting_positions:
-    - date:         Aug 2013
-      title:        Visiting student
-      affiliation:  Massachusetts Institute of Technology
-      location:     Cambridge MA, USA
-      mentor:       Prof. Fr{\'e}do Durand
-      notes:        Parallel execution of non-parallel recursive filters.
+  - date:         November 2020 - Present
+    title:        Software Engineer (L1)
+    company:      Twilio Czechia s.r.o
+    location:     Prague, Czechia
+    mentor:       Aleš Kracik
+    mentor_id:    akracik@twilio.com
+  - date:         April - October 2020
+    title:        Intern Software Engineer (R&D)
+    company:      Twilio Czechia s.r.o
+    location:     Prague, Czechia
+    mentor:       Aleš Kracik
+    mentor_id:    akracik@twilio.com
+    task:        "Worked with the on-going company project in preparation for Flex Public Beta"
+  - date:         June 2014
+    title:        Intern Network Administrator
+    company:      Telenor Communications Pvt. Ltd.
+    location:     Dehradun, India
+    task:         "Analysis of Network Structure and monitoring Network Reliability"
 
 technical_skills:
     - C++
@@ -74,45 +88,58 @@ awards:
       detail: All India Rank 54 in IIT-JEE 2005 (entrance examination for Indian Institutes of Technology) amongst nearly 300,000 aspirants.
 
 publications:
-#    - title:   "Passthrough+: Real-time Stereoscopic View Synthesis for Mobile Mixed Reality"
-#      author:  G. Chaurasia, A. Nieuwoudt, A. E. Ichim, R Szeliski, A. Sorkine-Hornung
-#      journal: Proceedings of ACM on Computer Graphics and Interactive Techniques
-#      note:    to appear in I3D
-#      year:    2020
-#      doi:     https://doi.org/10.1145/3384540
-#      url:     https://dl.acm.org/doi/abs/10.1145/3384540
-#      media:
-#          - name: Oculus Connect 6
-#            url:  https://www.oculus.com/blog/oculus-quest-at-oc6-introducing-hand-tracking-oculus-link-passthrough-on-quest-and-more/?locale=en_US
-#          - name: VentureBeat
-#            url:  https://venturebeat.com/2019/10/02/oculus-quest-gets-go-apps-passthrough-and-easier-firmware-updates/
-#          - name: UploadVR
-#            url:  https://uploadvr.com/oc6-quest-passthrough/?fbclid=IwAR1uZPB9ODf76lw7p3rNlM_A4lK0EcS1yQfCpdly5uRiCMj3XiqrrM1ohco
-    - title:   Estimating POS Annotation Consistency of Different Treebanks in a Language
-      author:  Aggarwal A., and Zeman D.
-      journal: Indian Conference on Computer Vision, Graphics and Image Processing
-      note:    ICVGIP
-      year:    2020
-      month:   9
-      url:     publications/tlt20/
-      doi:     http://dx.doi.org/10.1145/1924559.1924604
-      internal: 1
-
+    - title:    Estimating POS Annotation Consistency of Different Treebanks in a Language
+      author:   Aggarwal A., and Zeman D.
+      journal:  TODO
+      note:     TODO
+      year:     2020
+      url:      TODO
+      doi:      TODO
+    - title:    Enhancing Social Media Experience by Usage of User-Defined Nicknames as Additional Identifiers for Online Interaction
+      author:   Aggarwal A.
+      journal:  Journal of Computer Sciences and Applications
+      note:     JCSA
+      year:     2016
+      url:      "http://pubs.sciepub.com/jcsa/4/1/1"
+      doi:      "http://dx.doi.org/10.12691/jcsa-4-1-1"
+    - title:    Remote Update of Database through Mobile Device
+      author:   Aggarwal A., Kharia S., Mediratta D.
+      journal:  International Journal of Science Technology and Engineering
+      note:     IJSTE
+      year:     2015
+      url:      "http://ijste.org/Article.php?manuscript=IJSTEV2I3008"
+    - title:    Data Usage Monitor for a Shared Wireless Network Connection
+      author:   Aggarwal A., Kharia S.
+      journal:  IOSR Journal of Computer Engineering
+      note:     IOSR-JCE
+      year:     2015
+      url:      "http://www.iosrjournals.org/iosr-jce/papers/Vol17-issue2/Version-1/H017215057.pdf"
+      #doi:      "http://dx.doi.org/10.9790/0661-17215057"
 
 theses:
   - title: Consistency of Linguistic Annotation
-    author: Aggarwal A.
-    school: Univerzita Karlova, Matematicko-fyzikální fakulta, Ústav formální a aplikované lingvistiky
+    school: Univerzita Karlova, Matematicko-fyzikální fakulta, Ústav Formální a Aplikované Lingvistiky (ÚFAL)
     year: 2020
-    month: 9
     address: Prague, Czechia
     supervisor: Zeman, Daniel
     supervisor_link: https://ufal.mff.cuni.cz/daniel-zeman
     url: https://dspace.cuni.cz/handle/20.500.11956/120867
     type: Master's Thesis
+  - title: "Annotation Inconsistencies in Universal Dependencies: Identification, and Correction"
+    school: University of Basque Country
+    year: 2019
+    address: Donostia, Spain
+    supervisor: Zeman, Daniel
+    supervisor2: Gojenola, Koldo
+    supervisor_link: https://ufal.mff.cuni.cz/daniel-zeman
+    supervisor2_link: https://scholar.google.es/citations?user=GAlMzzAAAAAJ
+    url: http://ixa.si.ehu.es/master/en/node/2100
+    type: Master's Thesis
 
 references:
-    - name:  Dr. George Drettakis
-      title: Senior Researcher, INRIA Sophia Antipolis, France
-      www:   http://www-sop.inria.fr/members/George.Drettakis/
-      mail:  george.drettakis@inria.fr
+    - name:  Daniel Zeman
+      affiliation: Institute of Formal and Applied Linguistics (UFAL), Charles University (UK), Czechia
+      mail:  zeman@ufal.mff.cuni.cz
+    - name: Koldo Gojenola
+      affiliation: IXA Research Group, University of Basque Country (UPV-EHU), Spain
+      mail: koldo.gojenola@ehu.eus

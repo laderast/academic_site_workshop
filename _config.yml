@@ -1,22 +1,22 @@
 # Site wide configuration
 
-title: Akshay Aggarwal's website
+title: Akshay Aggarwal's Academic Website
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Akshay Aggarwal
-  avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
+  avatar: good_pic.jpg
+  bio: "What a sculpture is to a block of marble, education is to human soul"
   email: akshayantimatter@gmail.com
   linkedin: akshayaggarwal02
   github: Akshayanti
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  orcid: 0000-0002-4452-7459
   researchgate: Akshay_Aggarwal5
   mendeley: #username
   google:
-    scholar: #id
+    scholar: aPd4T_YAAAAJ
   youtube: #username
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
