@@ -1,4 +1,10 @@
-Jump to: [[Current Projects](#current-projects)] [[Completed Projects](#completed-projects)]
+---
+layout: page
+title: Selected Projects
+---
+
+**Quick Navigation Links**:<b />
+[[Current Projects](#current-projects)] [[Completed Projects](#completed-projects)]
 
 ----
 
@@ -7,15 +13,17 @@ Jump to: [[Current Projects](#current-projects)] [[Completed Projects](#complete
 {% for pub in site.data.project_list.current %}
 **{{pub.name}}**<br />
 {{pub.description}}<br />
-{% if pub.link %}<a href={{ pub.link }}><i class="fa fa-fw fa-github"></i> View on Github</a>{% endif %}
+{% if pub.link %}<i class="fa fa-fw fa-github"></i> [View on Github]({{pub.link}}){% endif %}
 
 {% endfor %}
+
+----
 
 ## Completed Projects
 
 {% for pub in site.data.project_list.completed %}
 **{{pub.name}}**<br />
 {{pub.description}}<br />
-{% if pub.link %}<a href={{ pub.link }}><i class="fa fa-fw fa-github"></i> View on Github</a>{% endif %}
+{% if pub.link %}<i class="fa fa-fw fa-github"></i> [View on Github]({{pub.link}}){% endif %}
 
 {% endfor %}

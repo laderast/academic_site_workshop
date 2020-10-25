@@ -77,16 +77,6 @@ technical_skills:
     - Java
     - Visual Studio
 
-awards:
-    - date:   Aug 2010
-      detail: PhD fellowship (\textit{Allocation de Recherche}) by the French ministry for PhD studies.
-    - date:   Aug 2009
-      detail: Scholarship of Excellence (\textit{Bourse d'Excellence}) by ENSIMAG for Master's studies.
-    - date:   May 2007
-      detail: Scholarship for 12 week research internship `ODCSSS-07' in Dublin by Science Foundation of Ireland.
-    - date:   Jun 2005
-      detail: All India Rank 54 in IIT-JEE 2005 (entrance examination for Indian Institutes of Technology) amongst nearly 300,000 aspirants.
-
 publications:
     - title:    Estimating POS Annotation Consistency of Different Treebanks in a Language
       author:   Aggarwal A., and Zeman D.
@@ -135,6 +125,24 @@ theses:
     supervisor2_link: https://scholar.google.es/citations?user=GAlMzzAAAAAJ
     url: http://ixa.si.ehu.es/master/en/node/2100
     type: Master's Thesis
+
+language:
+  - level: Native Fluency
+    name: Hindi
+  - level: Near-native Fluency
+    name: English
+  - level: Basic Proficiency
+    name: Spanish, French, Japanese
+
+awards:
+  - year: 2018
+    detail: Received Erasmus+ Grant by Charles University
+  - year: 2016
+    detail: Received Charpak Exchange Scholarship by French Embassy in India
+  - year: 2015
+    detail: Organizer, ComicBuzz VIT, a mini comic-con organised during college fest
+  - year: 2012
+    detail: Received Bronze Level, International Award for Young People (IAYP)
 
 references:
     - name:  Daniel Zeman

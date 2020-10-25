@@ -6,13 +6,20 @@ position: Software Engineer (L1)
 web: https://akshayanti.github.io/
 
 current:
-  - name: blah
-    link: jakg
-    year: jgwersg
-    description: jlagdjasasf
+  - name: Viability of LISCA in low-resource scenario
+    link: https://github.com/Akshayanti/Lisca_Low_Resource
+    description: "Conclusive experiments to determine if LISCA can operate as well in a low-resource scenario"
+  - name: Data-driven Derinet 2.0 for Indic Languages
+    link: https://github.com/Akshayanti/Indic-Derinet-2.0
+    description: "An attempt at creating E2E Pipeline to form Derinet 2.0 network for (official) Indian Languages"
 
 completed:
-  - name: abc
-    link: def
-    year: ghi
-    description: jklmnopquralj
+  - name: Sub-Reddit Identification of Reddit Data using Different Classification Algorithms in R
+    link: https://github.com/Akshayanti/reddit_classification
+    description: "Classification task to split the data into the different subreddits. A smaller version of the Kaggle Challenge on the topic involving 1013 subreddits."
+  - name: What's your grammatical gender?
+    link: https://github.com/Akshayanti/what-is-your-gender
+    description: "Implementation of the [paper](https://www.aclweb.org/anthology/N03-1006/) for English-Hindi pair."
+  - name: Source Transfer Tagging with Parameter Estimation for Improving Projection Quality
+    link: https://github.com/Akshayanti/cross-lingual-tagging
+    description: "Cross-lingual tagging with single/multiple sources and parameter estimation to improve projection quality"
