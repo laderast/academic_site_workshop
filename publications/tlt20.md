@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/tlt20/
+permalink: /cv/publications/tlt20/
 title: "Estimating POS Annotation Consistency of Different Treebanks in a Language"
 ---
 
