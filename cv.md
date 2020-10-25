@@ -33,7 +33,7 @@ Degree Awarded
 
 {% for pub in site.data.cv.theses %}
 {{pub.author}}<br />
-*{% if pub.type %}{{pub.type}} {{% endif %}*
+*{% if pub.type %} {{pub.type}} {{% endif %}*<br />
 **{{pub.title}}**<br />
 *{{pub.school}} {{pub.address}}*
 {% if pub.note %} *({{pub.note}})*
