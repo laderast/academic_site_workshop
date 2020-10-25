@@ -32,7 +32,7 @@ Degree Awarded
 ## Theses
 
 {% for pub in site.data.cv.theses %}
-*{% if pub.type %} {{pub.type}} {{% endif %}}*<br />
+*{{% if pub.type %}} {{pub.type}} {{% endif %}}*<br />
 **{{pub.title}}**<br />
 *{{pub.school}}, {{pub.address}}*
 {% if pub.note %} *({{pub.note}})*
