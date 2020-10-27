@@ -80,18 +80,18 @@ technical_skills:
 publications:
     - title:    Estimating POS Annotation Consistency of Different Treebanks in a Language
       author:   Aggarwal A., and Zeman D.
-      journal:  TODO
-      note:     TODO
+      journal:  Proceedings of the 19th International Workshop on Treebanks and Linguistic Theories
+      note:     TLT 2020
       year:     2020
-      url:      TODO
-      doi:      TODO
+      url:      "https://www.aclweb.org/anthology/2020.tlt-1.9/"
+      #doi:      TODO
     - title:    Enhancing Social Media Experience by Usage of User-Defined Nicknames as Additional Identifiers for Online Interaction
       author:   Aggarwal A.
       journal:  Journal of Computer Sciences and Applications
       note:     JCSA
       year:     2016
       url:      "http://pubs.sciepub.com/jcsa/4/1/1"
-      doi:      "http://dx.doi.org/10.12691/jcsa-4-1-1"
+      #doi:      "http://dx.doi.org/10.12691/jcsa-4-1-1"
     - title:    Remote Update of Database through Mobile Device
       author:   Aggarwal A., Kharia S., Mediratta D.
       journal:  International Journal of Science Technology and Engineering
@@ -103,8 +103,8 @@ publications:
       journal:  IOSR Journal of Computer Engineering
       note:     IOSR-JCE
       year:     2015
-      url:      "http://www.iosrjournals.org/iosr-jce/papers/Vol17-issue2/Version-1/H017215057.pdf"
-      #doi:      "http://dx.doi.org/10.9790/0661-17215057"
+      doi:      "http://www.iosrjournals.org/iosr-jce/papers/Vol17-issue2/Version-1/H017215057.pdf"
+      #url:      "http://dx.doi.org/10.9790/0661-17215057"
 
 theses:
   - title: Consistency of Linguistic Annotation
