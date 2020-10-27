@@ -53,7 +53,7 @@ positions:
     location:     Prague, Czechia
     mentor:       Aleš Kracik
     mentor_id:    akracik@twilio.com
-    task:        "Worked with the on-going company project in preparation for Flex Public Beta"
+    task:         "Worked on Flex Data Team on ongoing projects. Learnt industry level coding standards in Java and JS, while also picking up knowledge on practices, tools, and services like Kafka, Docker, etc."
   - date:         June 2014
     title:        Intern Network Administrator
     company:      Telenor Communications Pvt. Ltd.
@@ -63,19 +63,6 @@ positions:
 technical_skills:
     - C++
     - Matlab
-    - Python
-    - OpenGL
-    - GLSL
-    - CUDA
-    - OpenCV
-    - LaTeX
-    - Mercurial
-    - Git
-    - SVN
-    - Bash
-    - Vim
-    - Java
-    - Visual Studio
 
 publications:
     - title:    Estimating POS Annotation Consistency of Different Treebanks in a Language
@@ -146,7 +133,7 @@ awards:
 
 references:
     - name:  Daniel Zeman
-      affiliation: Institute of Formal and Applied Linguistics (UFAL), Charles University (UK), Czechia
+      affiliation: Institute of Formal and Applied Linguistics (ÚFAL), Charles University (UK), Czechia
       mail:  zeman@ufal.mff.cuni.cz
     - name: Koldo Gojenola
       affiliation: IXA Research Group, University of Basque Country (UPV-EHU), Spain
