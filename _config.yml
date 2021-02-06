@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: BDASA - Big Data Analytics Student Association 
+title: <h2> Big Data Analytics Student Association 
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: BDASA
   avatar: bio-photo.jpg
-  bio: "This is the official site for SDSU's Big Data Analytics Student Association"
+  bio: "This is the official site for SDSU's Big Data Analytics Student Association (BDASA)"
   email: bda.club@sdsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username 
