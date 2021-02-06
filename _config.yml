@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Sergio Test Today
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Sergio Test
   avatar: bio-photo.jpg
   bio: "This is a sample Jekyll academic website."
   email: laderast@ohsu.edu
