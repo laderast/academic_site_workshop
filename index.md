@@ -12,4 +12,4 @@ Welcome to the Big Data Analytics Student Association for San Diego State Univer
 - Networking
 
 
-#[GitHub Pages](http://laderast.github.io)
+<!--- #[GitHub Pages](http://laderast.github.io), This is an example of how to link a webpage incase its needed for reference. --->
