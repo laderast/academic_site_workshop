@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Workshops
-excerpt: "Recent Workshops"
+title: Club Projects
+
 ---
 To be Created....
