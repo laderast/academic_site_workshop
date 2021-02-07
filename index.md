@@ -3,10 +3,13 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+Welcome to the Big Data Analytics Student Association for San Diego State University. Our site is still under construction...
 
-## Current Interests and Projects:
+## coming soon:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- Club Activities 
+- Presentations
+- Networking
+
+
+#[GitHub Pages](http://laderast.github.io)
