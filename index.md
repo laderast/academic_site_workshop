@@ -3,10 +3,10 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+Ph.D. student in Operations Research at the Georgia Institute of Technology
 
 ## Current Interests and Projects:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- Logistics and Transportation
+- Discrete and Continuous Optimization
+- Dynamic programs for efficient decision making
